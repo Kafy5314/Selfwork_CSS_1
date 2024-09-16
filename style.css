@@ -1,0 +1,28 @@
+*{
+    font-family:'Times New Roman', Times, serif
+}
+
+body{
+    background-color: black;
+    color: whitesmoke;
+}
+
+
+h1{
+    font-family: "SUSE", sans-serif;
+    background-color: violet;
+    color: black;
+    width: auto;
+    
+}
+
+h1:hover{
+    background-color: royalblue;
+}
+
+.img{
+    min-height: 100vh;
+    background-size: 100%;
+    background-image:linear-gradient(rgba(238, 130, 238, 0.45), rgba(0, 0, 255, 0.45), rgba(0, 0, 0, 0.45)), url(https://picsum.photos/900/450);
+}
+
